@@ -1,0 +1,1 @@
+This project compresses and decompresses files using the Huffman Encoding algorithm, showcasing your grasp of data structures, trees, priority queues, and file I/O in Java.
